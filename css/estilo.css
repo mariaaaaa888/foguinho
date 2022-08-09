@@ -1,0 +1,44 @@
+body{
+	background-color:rgb(255,255,255); 
+	margin: 20px 25px;
+	font-family: sans-serif;
+}
+h1{
+	color:rgb(255,0,0);
+	margin: 60px;
+	font-size: 40px;
+	
+}
+h2{
+	font-family: monospace;
+	color:rgb(255,254,200);
+	background-color: #d45656
+}
+
+li{
+	color: rgb(0,0,0);
+	 font-size: 20px;
+	 font-family: AdineuePRO;
+}
+	
+}
+figure{
+	background-color: yellow;
+ }
+
+ul{
+	border-right-color: red;
+	border-style: solid;
+	border-width: 2px;
+}
+
+a{
+	color: rgb(255,0,0);
+
+}
+
+footer{
+
+	padding: 20px;
+	text-align: center;
+}
